@@ -1,0 +1,18 @@
+{"id":"1","productId":"33218896","category":"Women's Clothing","manufacturer":"Contoso Sport","description":"Quick dry crew neck t-shirt","price":"14.99","shipping":{"weight":1,"dimensions":{"width":6,"height":8,"depth":1}},"_rid":"PKViAICjp7cBAAAAAAAAAA==","_self":"dbs/PKViAA==/colls/PKViAICjp7c=/docs/PKViAICjp7cBAAAAAAAAAA==/","_etag":"\"0100c841-0000-2300-0000-6112561d0000\"","_attachments":"attachments/","_ts":1628591645}
+AAA
+BBB
+DDD
+FFF
+GGG
+HHH
+III
+KKK
+MMM
+{"id":"2","productId":"33218897","category":"Women's Outerwear","manufacturer":"Contoso","description":"Black wool pea-coat","price":"49.99","shipping":{"weight":2,"dimensions":{"width":8,"height":11,"depth":3}},"_rid":"PKViAICjp7cCAAAAAAAAAA==","_self":"dbs/PKViAA==/colls/PKViAICjp7c=/docs/PKViAICjp7cCAAAAAAAAAA==/","_etag":"\"0100d741-0000-2300-0000-611256340000\"","_attachments":"attachments/","_ts":1628591668}
+{"id":"3","productId":"33218898","category":"Men's Outerwear","manufacturer":"Contoso","description":"Black wool pea-coat","price":"49.99","shipping":{"weight":2,"dimensions":{"width":8,"height":11,"depth":3}},"_rid":"PKViAICjp7cCAAAAAAAAAA==","_self":"dbs/PKViAA==/colls/PKViAICjp7c=/docs/PKViAICjp7cCAAAAAAAAAA==/","_etag":"\"0100d741-0000-2300-0000-611256340000\"","_attachments":"attachments/","_ts":1628591668}
+{"id":"3","productId":"33218900","category":"One's Outerwear","manufacturer":"Contoso","description":"Black wool pea-coat","price":"49.99","shipping":{"weight":2,"dimensions":{"width":8,"height":11,"depth":3}},"_rid":"PKViAICjp7cCAAAAAAAAAA==","_self":"dbs/PKViAA==/colls/PKViAICjp7c=/docs/PKViAICjp7cCAAAAAAAAAA==/","_etag":"\"0100d741-0000-2300-0000-611256340000\"","_attachments":"attachments/","_ts":1628591668}
+{"id":"6","productId":"33218900","category":"Theirs Outerwear","manufacturer":"Contoso","description":"Black wool pea-coat","price":"49.99","shipping":{"weight":2,"dimensions":{"width":8,"height":11,"depth":3}},"_rid":"PKViAICjp7cCAAAAAAAAAA==","_self":"dbs/PKViAA==/colls/PKViAICjp7c=/docs/PKViAICjp7cCAAAAAAAAAA==/","_etag":"\"0100d741-0000-2300-0000-611256340000\"","_attachments":"attachments/","_ts":1628591668}
+{"id":"9","productId":"33218900","category":"Theirs Outerwear","manufacturer":"Contoso","description":"Black wool pea-coat","price":"49.99","shipping":{"weight":2,"dimensions":{"width":8,"height":11,"depth":3}},"_rid":"PKViAICjp7cCAAAAAAAAAA==","_self":"dbs/PKViAA==/colls/PKViAICjp7c=/docs/PKViAICjp7cCAAAAAAAAAA==/","_etag":"\"0100d741-0000-2300-0000-611256340000\"","_attachments":"attachments/","_ts":1628591668}
+CCC
+LLL
+NNN
