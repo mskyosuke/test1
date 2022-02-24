@@ -1,0 +1,9 @@
+{
+	"name": "msf-dummy-datafactory-daiwa",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6027519-fe72-4843-bf00-df40641bcb44",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
